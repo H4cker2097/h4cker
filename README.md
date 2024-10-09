@@ -15,9 +15,9 @@ Enhance your Telegram interactions effortlessly with H4CK3R VIEW 2097!
 
 |SNO| TOPIC | TITAL | LINK |
 |-|-|-|-|
-|1| HOW TO USE | YOUTUBE | https://youtu.be/iswAGglPJMk
-|2| OWNER | TELEGRAM | https://t.me/jeansonjemesancheta
-|3| OWNER | INSTAGRAM | https://www.instagram.com/h4cker_2097?igsh=ZGJqbGFjZjh0c2g0
+|1| HOW TO USE | YOUTUBE | https://youtu.be/NfUqaWyjcPo
+|2| OWNER | TELEGRAM | https://t.me/H4CKER_2097
+|3| OWNER | INSTAGRAM | https://www.instagram.com/h4cker_2097
 ## TERMUX TOOL 
 
 | 1 | apt update
