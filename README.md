@@ -38,7 +38,7 @@ Enhance your Telegram interactions effortlessly with H4CK3R VIEW 2097!
 
 | 9 | cd h4cker
 
-| 10 | python h4cker.py
+| 10 | python h4cker-view-2097.py
 
 # IF NOT WORK 
 
